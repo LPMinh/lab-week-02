@@ -3,8 +3,6 @@ Công nghệ sử dụng JSP/Servlet,mariadb,JPA
  <h1>Class Diagram</h1>
 <img width="316" alt="image" src="https://github.com/LPMinh/lab-week-07/assets/95513996/31e7ee17-c545-45f1-bb95-828b992e7ed8">
 
-<h1>Tổ chức thư mụcr</h1>
-<img width="203" alt="image" src="https://github.com/LPMinh/lab-week-07/assets/95513996/9ab4bd55-a32a-4c23-8ab5-0199326ade0d">
 
 <h1>Trang Đăng nhập</h1>
 <img width="917" alt="image" src="https://github.com/LPMinh/lab-week-07/assets/95513996/d35c5540-80e5-4455-a3d9-9a89ecf10c0c">
